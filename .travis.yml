@@ -56,4 +56,4 @@ script:
   ############################################################################
   - mkdir -p build
   - cd build
-  - cmake --build . --target hello_ci
+  - cmake ..
