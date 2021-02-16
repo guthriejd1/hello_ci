@@ -57,5 +57,5 @@ script:
   - mkdir -p build
   - cd build
   - cmake ..
-  - make
+  - make hello_ci
   - ./hello_ci
